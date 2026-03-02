@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://imgs.search.brave.com/LPP9L7VRxMTRONlPpdyjCNqasQi_ZknYnw37Icr7XzA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL3RodW1icy82/MmE4NmVmYTE0YTM4/Y2NlMGMzNzFjMTEu/cG5n" height="40" alt="javalogo"  />
+  <img src="https://www.jsdelivr.com/package/npm/@programming-languages-logos/java" height="40" alt="javalogo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
